@@ -25,7 +25,7 @@ The project uses the Breast Cancer Wisconsin (Diagnostic) Data Set from scikit-l
 
 ```
 ml-model-comparison-cancer/
-├── model_comparison.ipynb      # Main notebook with all analysis
+├── ICS435-Assignment1-FrancesUy.ipynb      # Main notebook with all analysis
 └── README.md
 ```
 
